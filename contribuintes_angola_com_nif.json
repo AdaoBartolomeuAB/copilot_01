@@ -1,0 +1,1802 @@
+[
+    {
+        "nome": "Jos\u00e9 da Silva",
+        "endereco": "Avenida 1\u00ba de Maio, n\u00ba 15",
+        "renda_usd": 149,
+        "renda_aoa": 134100,
+        "cidade": "Luanda",
+        "provincia": "Benguela",
+        "nif": 647987919
+    },
+    {
+        "nome": "Jos\u00e9 da Silva",
+        "endereco": "Rua do Cora\u00e7\u00e3o, n\u00ba 55",
+        "renda_usd": 108,
+        "renda_aoa": 97200,
+        "cidade": "Benguela",
+        "provincia": "Huila",
+        "nif": 905566932
+    },
+    {
+        "nome": "Carlos Souza",
+        "endereco": "Rua da Liberdade, n\u00ba 12",
+        "renda_usd": 139,
+        "renda_aoa": 125100,
+        "cidade": "Cabinda",
+        "provincia": "Malanje",
+        "nif": 126214019
+    },
+    {
+        "nome": "Maria Gomes",
+        "endereco": "Avenida da Paz, n\u00ba 36",
+        "renda_usd": 185,
+        "renda_aoa": 166500,
+        "cidade": "Malanje",
+        "provincia": "Huila",
+        "nif": 859662179
+    },
+    {
+        "nome": "Marta Rodrigues",
+        "endereco": "Rua do Com\u00e9rcio, n\u00ba 88",
+        "renda_usd": 159,
+        "renda_aoa": 143100,
+        "cidade": "Zaire",
+        "provincia": "Cabinda",
+        "nif": 562354511
+    },
+    {
+        "nome": "Lu\u00eds Costa",
+        "endereco": "Rua da Liberdade, n\u00ba 12",
+        "renda_usd": 109,
+        "renda_aoa": 98100,
+        "cidade": "Kuito",
+        "provincia": "Huila",
+        "nif": 647780975
+    },
+    {
+        "nome": "Pedro Almeida",
+        "endereco": "Avenida da Paz, n\u00ba 36",
+        "renda_usd": 174,
+        "renda_aoa": 156600,
+        "cidade": "Kuito",
+        "provincia": "Benguela",
+        "nif": 209223802
+    },
+    {
+        "nome": "Ana Oliveira",
+        "endereco": "Avenida 1\u00ba de Maio, n\u00ba 15",
+        "renda_usd": 195,
+        "renda_aoa": 175500,
+        "cidade": "Huambo",
+        "provincia": "Kwanza Sul",
+        "nif": 382507816
+    },
+    {
+        "nome": "Maria Gomes",
+        "endereco": "Rua da Liberdade, n\u00ba 12",
+        "renda_usd": 117,
+        "renda_aoa": 105300,
+        "cidade": "Luanda",
+        "provincia": "Huambo",
+        "nif": 130004856
+    },
+    {
+        "nome": "Jo\u00e3o Pereira",
+        "endereco": "Avenida Central, n\u00ba 101",
+        "renda_usd": 138,
+        "renda_aoa": 124200,
+        "cidade": "Zaire",
+        "provincia": "Moxico",
+        "nif": 936786490
+    },
+    {
+        "nome": "Rita Santos",
+        "endereco": "Avenida Uni\u00e3o, n\u00ba 73",
+        "renda_usd": 122,
+        "renda_aoa": 109800,
+        "cidade": "U\u00edge",
+        "provincia": "Huila",
+        "nif": 640629734
+    },
+    {
+        "nome": "Lu\u00eds Costa",
+        "endereco": "Avenida Central, n\u00ba 101",
+        "renda_usd": 127,
+        "renda_aoa": 114300,
+        "cidade": "Cabinda",
+        "provincia": "Kwanza Sul",
+        "nif": 280267651
+    },
+    {
+        "nome": "Maria Gomes",
+        "endereco": "Avenida Uni\u00e3o, n\u00ba 73",
+        "renda_usd": 129,
+        "renda_aoa": 116100,
+        "cidade": "Lunda Norte",
+        "provincia": "Luanda",
+        "nif": 325555492
+    },
+    {
+        "nome": "Lucia Pinto",
+        "endereco": "Avenida 1\u00ba de Maio, n\u00ba 15",
+        "renda_usd": 102,
+        "renda_aoa": 91800,
+        "cidade": "Benguela",
+        "provincia": "Huambo",
+        "nif": 223496573
+    },
+    {
+        "nome": "Lucia Pinto",
+        "endereco": "Avenida Central, n\u00ba 101",
+        "renda_usd": 198,
+        "renda_aoa": 178200,
+        "cidade": "Huambo",
+        "provincia": "Cabinda",
+        "nif": 530611408
+    },
+    {
+        "nome": "Jos\u00e9 da Silva",
+        "endereco": "Rua dos Sabeiros, n\u00ba 28",
+        "renda_usd": 147,
+        "renda_aoa": 132300,
+        "cidade": "Zaire",
+        "provincia": "Benguela",
+        "nif": 398474749
+    },
+    {
+        "nome": "Pedro Almeida",
+        "endereco": "Avenida da Paz, n\u00ba 36",
+        "renda_usd": 116,
+        "renda_aoa": 104400,
+        "cidade": "Lubango",
+        "provincia": "Kwanza Sul",
+        "nif": 266207296
+    },
+    {
+        "nome": "Ana Oliveira",
+        "endereco": "Rua da Liberdade, n\u00ba 12",
+        "renda_usd": 139,
+        "renda_aoa": 125100,
+        "cidade": "Luanda",
+        "provincia": "Zaire",
+        "nif": 983319309
+    },
+    {
+        "nome": "Pedro Almeida",
+        "endereco": "Avenida Uni\u00e3o, n\u00ba 73",
+        "renda_usd": 166,
+        "renda_aoa": 149400,
+        "cidade": "Benguela",
+        "provincia": "Moxico",
+        "nif": 137618560
+    },
+    {
+        "nome": "Marta Rodrigues",
+        "endereco": "Avenida Central, n\u00ba 101",
+        "renda_usd": 151,
+        "renda_aoa": 135900,
+        "cidade": "Huambo",
+        "provincia": "Zaire",
+        "nif": 703606805
+    },
+    {
+        "nome": "Lucia Pinto",
+        "endereco": "Rua do Com\u00e9rcio, n\u00ba 88",
+        "renda_usd": 134,
+        "renda_aoa": 120600,
+        "cidade": "U\u00edge",
+        "provincia": "U\u00edge",
+        "nif": 125986308
+    },
+    {
+        "nome": "Jos\u00e9 da Silva",
+        "endereco": "Avenida Central, n\u00ba 101",
+        "renda_usd": 123,
+        "renda_aoa": 110700,
+        "cidade": "Huambo",
+        "provincia": "Malanje",
+        "nif": 783766944
+    },
+    {
+        "nome": "Lu\u00eds Costa",
+        "endereco": "Rua do Cora\u00e7\u00e3o, n\u00ba 55",
+        "renda_usd": 132,
+        "renda_aoa": 118800,
+        "cidade": "Luanda",
+        "provincia": "Malanje",
+        "nif": 735557037
+    },
+    {
+        "nome": "Pedro Almeida",
+        "endereco": "Avenida Central, n\u00ba 101",
+        "renda_usd": 103,
+        "renda_aoa": 92700,
+        "cidade": "Kuito",
+        "provincia": "Kwanza Sul",
+        "nif": 402249641
+    },
+    {
+        "nome": "Lu\u00eds Costa",
+        "endereco": "Avenida Central, n\u00ba 101",
+        "renda_usd": 141,
+        "renda_aoa": 126900,
+        "cidade": "Malanje",
+        "provincia": "Luanda",
+        "nif": 219189265
+    },
+    {
+        "nome": "Jo\u00e3o Pereira",
+        "endereco": "Rua da Liberdade, n\u00ba 12",
+        "renda_usd": 180,
+        "renda_aoa": 162000,
+        "cidade": "Huambo",
+        "provincia": "Cabinda",
+        "nif": 309533792
+    },
+    {
+        "nome": "Ana Oliveira",
+        "endereco": "Rua do Com\u00e9rcio, n\u00ba 88",
+        "renda_usd": 195,
+        "renda_aoa": 175500,
+        "cidade": "U\u00edge",
+        "provincia": "Malanje",
+        "nif": 213828702
+    },
+    {
+        "nome": "Lu\u00eds Costa",
+        "endereco": "Avenida 1\u00ba de Maio, n\u00ba 15",
+        "renda_usd": 145,
+        "renda_aoa": 130500,
+        "cidade": "Benguela",
+        "provincia": "Moxico",
+        "nif": 767279321
+    },
+    {
+        "nome": "Pedro Almeida",
+        "endereco": "Rua S\u00e3o Jo\u00e3o, n\u00ba 40",
+        "renda_usd": 178,
+        "renda_aoa": 160200,
+        "cidade": "Huambo",
+        "provincia": "Huambo",
+        "nif": 466513973
+    },
+    {
+        "nome": "Lucia Pinto",
+        "endereco": "Avenida da Paz, n\u00ba 36",
+        "renda_usd": 110,
+        "renda_aoa": 99000,
+        "cidade": "Kuito",
+        "provincia": "Benguela",
+        "nif": 285802672
+    },
+    {
+        "nome": "Pedro Almeida",
+        "endereco": "Avenida Central, n\u00ba 101",
+        "renda_usd": 139,
+        "renda_aoa": 125100,
+        "cidade": "Cabinda",
+        "provincia": "Malanje",
+        "nif": 952031414
+    },
+    {
+        "nome": "Jos\u00e9 da Silva",
+        "endereco": "Rua da Liberdade, n\u00ba 12",
+        "renda_usd": 151,
+        "renda_aoa": 135900,
+        "cidade": "Luanda",
+        "provincia": "Cabinda",
+        "nif": 298076841
+    },
+    {
+        "nome": "Lucia Pinto",
+        "endereco": "Rua do Com\u00e9rcio, n\u00ba 88",
+        "renda_usd": 198,
+        "renda_aoa": 178200,
+        "cidade": "Malanje",
+        "provincia": "Huambo",
+        "nif": 713263032
+    },
+    {
+        "nome": "Maria Gomes",
+        "endereco": "Avenida da Paz, n\u00ba 36",
+        "renda_usd": 162,
+        "renda_aoa": 145800,
+        "cidade": "Malanje",
+        "provincia": "Benguela",
+        "nif": 476374883
+    },
+    {
+        "nome": "Lu\u00eds Costa",
+        "endereco": "Avenida Uni\u00e3o, n\u00ba 73",
+        "renda_usd": 182,
+        "renda_aoa": 163800,
+        "cidade": "U\u00edge",
+        "provincia": "Zaire",
+        "nif": 806406367
+    },
+    {
+        "nome": "Maria Gomes",
+        "endereco": "Avenida Central, n\u00ba 101",
+        "renda_usd": 114,
+        "renda_aoa": 102600,
+        "cidade": "Lubango",
+        "provincia": "Huila",
+        "nif": 768653374
+    },
+    {
+        "nome": "Jos\u00e9 da Silva",
+        "endereco": "Rua da Liberdade, n\u00ba 12",
+        "renda_usd": 146,
+        "renda_aoa": 131400,
+        "cidade": "Cabinda",
+        "provincia": "Malanje",
+        "nif": 451738704
+    },
+    {
+        "nome": "Marta Rodrigues",
+        "endereco": "Avenida 1\u00ba de Maio, n\u00ba 15",
+        "renda_usd": 104,
+        "renda_aoa": 93600,
+        "cidade": "Huambo",
+        "provincia": "Luanda",
+        "nif": 899364484
+    },
+    {
+        "nome": "Jos\u00e9 da Silva",
+        "endereco": "Avenida 1\u00ba de Maio, n\u00ba 15",
+        "renda_usd": 193,
+        "renda_aoa": 173700,
+        "cidade": "Lunda Norte",
+        "provincia": "Moxico",
+        "nif": 541251534
+    },
+    {
+        "nome": "Rita Santos",
+        "endereco": "Avenida Uni\u00e3o, n\u00ba 73",
+        "renda_usd": 104,
+        "renda_aoa": 93600,
+        "cidade": "Kuito",
+        "provincia": "Kwanza Sul",
+        "nif": 364567638
+    },
+    {
+        "nome": "Pedro Almeida",
+        "endereco": "Rua S\u00e3o Jo\u00e3o, n\u00ba 40",
+        "renda_usd": 144,
+        "renda_aoa": 129600,
+        "cidade": "Lunda Norte",
+        "provincia": "Huila",
+        "nif": 906848284
+    },
+    {
+        "nome": "Maria Gomes",
+        "endereco": "Rua da Liberdade, n\u00ba 12",
+        "renda_usd": 189,
+        "renda_aoa": 170100,
+        "cidade": "Zaire",
+        "provincia": "Benguela",
+        "nif": 716902816
+    },
+    {
+        "nome": "Jos\u00e9 da Silva",
+        "endereco": "Avenida 1\u00ba de Maio, n\u00ba 15",
+        "renda_usd": 130,
+        "renda_aoa": 117000,
+        "cidade": "Malanje",
+        "provincia": "Benguela",
+        "nif": 502988543
+    },
+    {
+        "nome": "Jos\u00e9 da Silva",
+        "endereco": "Avenida da Paz, n\u00ba 36",
+        "renda_usd": 150,
+        "renda_aoa": 135000,
+        "cidade": "Luanda",
+        "provincia": "Zaire",
+        "nif": 137858346
+    },
+    {
+        "nome": "Jo\u00e3o Pereira",
+        "endereco": "Avenida Marginal, n\u00ba 45",
+        "renda_usd": 135,
+        "renda_aoa": 121500,
+        "cidade": "Cabinda",
+        "provincia": "Benguela",
+        "nif": 190405305
+    },
+    {
+        "nome": "Marta Rodrigues",
+        "endereco": "Avenida Marginal, n\u00ba 45",
+        "renda_usd": 200,
+        "renda_aoa": 180000,
+        "cidade": "Kuito",
+        "provincia": "Huambo",
+        "nif": 737432246
+    },
+    {
+        "nome": "Jos\u00e9 da Silva",
+        "endereco": "Avenida Marginal, n\u00ba 45",
+        "renda_usd": 118,
+        "renda_aoa": 106200,
+        "cidade": "Benguela",
+        "provincia": "Benguela",
+        "nif": 274354919
+    },
+    {
+        "nome": "Rita Santos",
+        "endereco": "Rua do Com\u00e9rcio, n\u00ba 88",
+        "renda_usd": 146,
+        "renda_aoa": 131400,
+        "cidade": "Malanje",
+        "provincia": "Cabinda",
+        "nif": 662122515
+    },
+    {
+        "nome": "Marta Rodrigues",
+        "endereco": "Avenida Uni\u00e3o, n\u00ba 73",
+        "renda_usd": 179,
+        "renda_aoa": 161100,
+        "cidade": "Kuito",
+        "provincia": "Kwanza Sul",
+        "nif": 928545672
+    },
+    {
+        "nome": "Jo\u00e3o Pereira",
+        "endereco": "Rua do Com\u00e9rcio, n\u00ba 88",
+        "renda_usd": 123,
+        "renda_aoa": 110700,
+        "cidade": "U\u00edge",
+        "provincia": "Cabinda",
+        "nif": 496170691
+    },
+    {
+        "nome": "Carlos Souza",
+        "endereco": "Avenida Uni\u00e3o, n\u00ba 73",
+        "renda_usd": 110,
+        "renda_aoa": 99000,
+        "cidade": "Lubango",
+        "provincia": "Cabinda",
+        "nif": 521462287
+    },
+    {
+        "nome": "Marta Rodrigues",
+        "endereco": "Rua da Liberdade, n\u00ba 12",
+        "renda_usd": 160,
+        "renda_aoa": 144000,
+        "cidade": "Kuito",
+        "provincia": "Huambo",
+        "nif": 653537269
+    },
+    {
+        "nome": "Lu\u00eds Costa",
+        "endereco": "Rua do Cora\u00e7\u00e3o, n\u00ba 55",
+        "renda_usd": 200,
+        "renda_aoa": 180000,
+        "cidade": "Benguela",
+        "provincia": "Huila",
+        "nif": 475618081
+    },
+    {
+        "nome": "Jos\u00e9 da Silva",
+        "endereco": "Avenida Central, n\u00ba 101",
+        "renda_usd": 114,
+        "renda_aoa": 102600,
+        "cidade": "Malanje",
+        "provincia": "Kwanza Sul",
+        "nif": 107789639
+    },
+    {
+        "nome": "Lu\u00eds Costa",
+        "endereco": "Avenida 1\u00ba de Maio, n\u00ba 15",
+        "renda_usd": 134,
+        "renda_aoa": 120600,
+        "cidade": "U\u00edge",
+        "provincia": "U\u00edge",
+        "nif": 696551664
+    },
+    {
+        "nome": "Rita Santos",
+        "endereco": "Rua da Liberdade, n\u00ba 12",
+        "renda_usd": 176,
+        "renda_aoa": 158400,
+        "cidade": "Benguela",
+        "provincia": "Malanje",
+        "nif": 980357125
+    },
+    {
+        "nome": "Jo\u00e3o Pereira",
+        "endereco": "Rua da Liberdade, n\u00ba 12",
+        "renda_usd": 123,
+        "renda_aoa": 110700,
+        "cidade": "Malanje",
+        "provincia": "Kwanza Sul",
+        "nif": 679157854
+    },
+    {
+        "nome": "Marta Rodrigues",
+        "endereco": "Avenida Marginal, n\u00ba 45",
+        "renda_usd": 107,
+        "renda_aoa": 96300,
+        "cidade": "Zaire",
+        "provincia": "U\u00edge",
+        "nif": 696089771
+    },
+    {
+        "nome": "Lu\u00eds Costa",
+        "endereco": "Rua S\u00e3o Jo\u00e3o, n\u00ba 40",
+        "renda_usd": 123,
+        "renda_aoa": 110700,
+        "cidade": "Luanda",
+        "provincia": "Huambo",
+        "nif": 657437055
+    },
+    {
+        "nome": "Pedro Almeida",
+        "endereco": "Avenida 1\u00ba de Maio, n\u00ba 15",
+        "renda_usd": 109,
+        "renda_aoa": 98100,
+        "cidade": "Malanje",
+        "provincia": "Moxico",
+        "nif": 332040036
+    },
+    {
+        "nome": "Carlos Souza",
+        "endereco": "Avenida 1\u00ba de Maio, n\u00ba 15",
+        "renda_usd": 162,
+        "renda_aoa": 145800,
+        "cidade": "U\u00edge",
+        "provincia": "Huambo",
+        "nif": 801170390
+    },
+    {
+        "nome": "Lucia Pinto",
+        "endereco": "Avenida da Paz, n\u00ba 36",
+        "renda_usd": 143,
+        "renda_aoa": 128700,
+        "cidade": "U\u00edge",
+        "provincia": "Malanje",
+        "nif": 322388128
+    },
+    {
+        "nome": "Pedro Almeida",
+        "endereco": "Avenida 1\u00ba de Maio, n\u00ba 15",
+        "renda_usd": 153,
+        "renda_aoa": 137700,
+        "cidade": "Benguela",
+        "provincia": "Zaire",
+        "nif": 130611627
+    },
+    {
+        "nome": "Lu\u00eds Costa",
+        "endereco": "Avenida da Paz, n\u00ba 36",
+        "renda_usd": 138,
+        "renda_aoa": 124200,
+        "cidade": "Huambo",
+        "provincia": "Huila",
+        "nif": 179492616
+    },
+    {
+        "nome": "Maria Gomes",
+        "endereco": "Avenida Marginal, n\u00ba 45",
+        "renda_usd": 109,
+        "renda_aoa": 98100,
+        "cidade": "Luanda",
+        "provincia": "Zaire",
+        "nif": 957312616
+    },
+    {
+        "nome": "Rita Santos",
+        "endereco": "Avenida Marginal, n\u00ba 45",
+        "renda_usd": 110,
+        "renda_aoa": 99000,
+        "cidade": "U\u00edge",
+        "provincia": "Moxico",
+        "nif": 294733458
+    },
+    {
+        "nome": "Lucia Pinto",
+        "endereco": "Avenida Central, n\u00ba 101",
+        "renda_usd": 196,
+        "renda_aoa": 176400,
+        "cidade": "Benguela",
+        "provincia": "U\u00edge",
+        "nif": 296548104
+    },
+    {
+        "nome": "Jos\u00e9 da Silva",
+        "endereco": "Avenida Central, n\u00ba 101",
+        "renda_usd": 122,
+        "renda_aoa": 109800,
+        "cidade": "Lunda Norte",
+        "provincia": "Malanje",
+        "nif": 121267606
+    },
+    {
+        "nome": "Rita Santos",
+        "endereco": "Rua S\u00e3o Jo\u00e3o, n\u00ba 40",
+        "renda_usd": 134,
+        "renda_aoa": 120600,
+        "cidade": "Cabinda",
+        "provincia": "Huila",
+        "nif": 856310254
+    },
+    {
+        "nome": "Rita Santos",
+        "endereco": "Avenida da Paz, n\u00ba 36",
+        "renda_usd": 166,
+        "renda_aoa": 149400,
+        "cidade": "Kuito",
+        "provincia": "Benguela",
+        "nif": 268331291
+    },
+    {
+        "nome": "Jo\u00e3o Pereira",
+        "endereco": "Avenida Marginal, n\u00ba 45",
+        "renda_usd": 152,
+        "renda_aoa": 136800,
+        "cidade": "Luanda",
+        "provincia": "Benguela",
+        "nif": 413600089
+    },
+    {
+        "nome": "Jo\u00e3o Pereira",
+        "endereco": "Avenida 1\u00ba de Maio, n\u00ba 15",
+        "renda_usd": 174,
+        "renda_aoa": 156600,
+        "cidade": "U\u00edge",
+        "provincia": "Kwanza Sul",
+        "nif": 782401176
+    },
+    {
+        "nome": "Marta Rodrigues",
+        "endereco": "Rua do Com\u00e9rcio, n\u00ba 88",
+        "renda_usd": 152,
+        "renda_aoa": 136800,
+        "cidade": "Luanda",
+        "provincia": "Malanje",
+        "nif": 319990196
+    },
+    {
+        "nome": "Jo\u00e3o Pereira",
+        "endereco": "Rua dos Sabeiros, n\u00ba 28",
+        "renda_usd": 150,
+        "renda_aoa": 135000,
+        "cidade": "Kuito",
+        "provincia": "Huambo",
+        "nif": 647327891
+    },
+    {
+        "nome": "Lucia Pinto",
+        "endereco": "Avenida da Paz, n\u00ba 36",
+        "renda_usd": 130,
+        "renda_aoa": 117000,
+        "cidade": "Lubango",
+        "provincia": "Cabinda",
+        "nif": 963656942
+    },
+    {
+        "nome": "Carlos Souza",
+        "endereco": "Rua do Cora\u00e7\u00e3o, n\u00ba 55",
+        "renda_usd": 139,
+        "renda_aoa": 125100,
+        "cidade": "Lunda Norte",
+        "provincia": "Benguela",
+        "nif": 125026491
+    },
+    {
+        "nome": "Lucia Pinto",
+        "endereco": "Avenida da Paz, n\u00ba 36",
+        "renda_usd": 145,
+        "renda_aoa": 130500,
+        "cidade": "Kuito",
+        "provincia": "Moxico",
+        "nif": 992430699
+    },
+    {
+        "nome": "Maria Gomes",
+        "endereco": "Avenida 1\u00ba de Maio, n\u00ba 15",
+        "renda_usd": 135,
+        "renda_aoa": 121500,
+        "cidade": "U\u00edge",
+        "provincia": "Huila",
+        "nif": 946347438
+    },
+    {
+        "nome": "Pedro Almeida",
+        "endereco": "Avenida da Paz, n\u00ba 36",
+        "renda_usd": 158,
+        "renda_aoa": 142200,
+        "cidade": "Zaire",
+        "provincia": "Moxico",
+        "nif": 625314454
+    },
+    {
+        "nome": "Pedro Almeida",
+        "endereco": "Avenida 1\u00ba de Maio, n\u00ba 15",
+        "renda_usd": 100,
+        "renda_aoa": 90000,
+        "cidade": "Benguela",
+        "provincia": "Moxico",
+        "nif": 574638428
+    },
+    {
+        "nome": "Marta Rodrigues",
+        "endereco": "Rua do Cora\u00e7\u00e3o, n\u00ba 55",
+        "renda_usd": 151,
+        "renda_aoa": 135900,
+        "cidade": "Benguela",
+        "provincia": "Huila",
+        "nif": 685702132
+    },
+    {
+        "nome": "Lucia Pinto",
+        "endereco": "Rua da Liberdade, n\u00ba 12",
+        "renda_usd": 163,
+        "renda_aoa": 146700,
+        "cidade": "Malanje",
+        "provincia": "Benguela",
+        "nif": 310746720
+    },
+    {
+        "nome": "Marta Rodrigues",
+        "endereco": "Avenida 1\u00ba de Maio, n\u00ba 15",
+        "renda_usd": 108,
+        "renda_aoa": 97200,
+        "cidade": "Benguela",
+        "provincia": "Huila",
+        "nif": 227483157
+    },
+    {
+        "nome": "Rita Santos",
+        "endereco": "Avenida Central, n\u00ba 101",
+        "renda_usd": 194,
+        "renda_aoa": 174600,
+        "cidade": "Kuito",
+        "provincia": "Malanje",
+        "nif": 358676232
+    },
+    {
+        "nome": "Jos\u00e9 da Silva",
+        "endereco": "Avenida 1\u00ba de Maio, n\u00ba 15",
+        "renda_usd": 118,
+        "renda_aoa": 106200,
+        "cidade": "Kuito",
+        "provincia": "U\u00edge",
+        "nif": 447995181
+    },
+    {
+        "nome": "Lu\u00eds Costa",
+        "endereco": "Avenida 1\u00ba de Maio, n\u00ba 15",
+        "renda_usd": 182,
+        "renda_aoa": 163800,
+        "cidade": "Lubango",
+        "provincia": "Huila",
+        "nif": 828500416
+    },
+    {
+        "nome": "Rita Santos",
+        "endereco": "Rua do Com\u00e9rcio, n\u00ba 88",
+        "renda_usd": 159,
+        "renda_aoa": 143100,
+        "cidade": "Malanje",
+        "provincia": "Malanje",
+        "nif": 469786058
+    },
+    {
+        "nome": "Lu\u00eds Costa",
+        "endereco": "Rua da Liberdade, n\u00ba 12",
+        "renda_usd": 147,
+        "renda_aoa": 132300,
+        "cidade": "Malanje",
+        "provincia": "U\u00edge",
+        "nif": 924955099
+    },
+    {
+        "nome": "Ana Oliveira",
+        "endereco": "Rua dos Sabeiros, n\u00ba 28",
+        "renda_usd": 189,
+        "renda_aoa": 170100,
+        "cidade": "U\u00edge",
+        "provincia": "Moxico",
+        "nif": 378161383
+    },
+    {
+        "nome": "Ana Oliveira",
+        "endereco": "Avenida Uni\u00e3o, n\u00ba 73",
+        "renda_usd": 191,
+        "renda_aoa": 171900,
+        "cidade": "Lunda Norte",
+        "provincia": "Huambo",
+        "nif": 914495626
+    },
+    {
+        "nome": "Rita Santos",
+        "endereco": "Rua da Liberdade, n\u00ba 12",
+        "renda_usd": 107,
+        "renda_aoa": 96300,
+        "cidade": "Lunda Norte",
+        "provincia": "Moxico",
+        "nif": 210607479
+    },
+    {
+        "nome": "Jo\u00e3o Pereira",
+        "endereco": "Rua dos Sabeiros, n\u00ba 28",
+        "renda_usd": 198,
+        "renda_aoa": 178200,
+        "cidade": "Lunda Norte",
+        "provincia": "Luanda",
+        "nif": 625313819
+    },
+    {
+        "nome": "Ana Oliveira",
+        "endereco": "Avenida da Paz, n\u00ba 36",
+        "renda_usd": 123,
+        "renda_aoa": 110700,
+        "cidade": "U\u00edge",
+        "provincia": "Zaire",
+        "nif": 795440886
+    },
+    {
+        "nome": "Jo\u00e3o Pereira",
+        "endereco": "Avenida da Paz, n\u00ba 36",
+        "renda_usd": 148,
+        "renda_aoa": 133200,
+        "cidade": "Benguela",
+        "provincia": "Moxico",
+        "nif": 100293408
+    },
+    {
+        "nome": "Rita Santos",
+        "endereco": "Rua da Liberdade, n\u00ba 12",
+        "renda_usd": 175,
+        "renda_aoa": 157500,
+        "cidade": "Lubango",
+        "provincia": "Malanje",
+        "nif": 941186334
+    },
+    {
+        "nome": "Maria Gomes",
+        "endereco": "Rua dos Sabeiros, n\u00ba 28",
+        "renda_usd": 132,
+        "renda_aoa": 118800,
+        "cidade": "Lunda Norte",
+        "provincia": "Huila",
+        "nif": 816691379
+    },
+    {
+        "nome": "Rita Santos",
+        "endereco": "Rua do Cora\u00e7\u00e3o, n\u00ba 55",
+        "renda_usd": 100,
+        "renda_aoa": 90000,
+        "cidade": "Cabinda",
+        "provincia": "Zaire",
+        "nif": 547959072
+    },
+    {
+        "nome": "Jos\u00e9 da Silva",
+        "endereco": "Rua da Liberdade, n\u00ba 12",
+        "renda_usd": 137,
+        "renda_aoa": 123300,
+        "cidade": "Malanje",
+        "provincia": "Huambo",
+        "nif": 569034392
+    },
+    {
+        "nome": "Lu\u00eds Costa",
+        "endereco": "Rua da Liberdade, n\u00ba 12",
+        "renda_usd": 129,
+        "renda_aoa": 116100,
+        "cidade": "Lunda Norte",
+        "provincia": "Malanje",
+        "nif": 157984790
+    },
+    {
+        "nome": "Pedro Almeida",
+        "endereco": "Avenida 1\u00ba de Maio, n\u00ba 15",
+        "renda_usd": 114,
+        "renda_aoa": 102600,
+        "cidade": "Kuito",
+        "provincia": "Zaire",
+        "nif": 300664316
+    },
+    {
+        "nome": "Jos\u00e9 da Silva",
+        "endereco": "Rua do Com\u00e9rcio, n\u00ba 88",
+        "renda_usd": 134,
+        "renda_aoa": 120600,
+        "cidade": "Kuito",
+        "provincia": "U\u00edge",
+        "nif": 669847705
+    },
+    {
+        "nome": "Ana Oliveira",
+        "endereco": "Rua S\u00e3o Jo\u00e3o, n\u00ba 40",
+        "renda_usd": 158,
+        "renda_aoa": 142200,
+        "cidade": "Huambo",
+        "provincia": "Luanda",
+        "nif": 442774453
+    },
+    {
+        "nome": "Carlos Souza",
+        "endereco": "Avenida Central, n\u00ba 101",
+        "renda_usd": 120,
+        "renda_aoa": 108000,
+        "cidade": "Kuito",
+        "provincia": "Kwanza Sul",
+        "nif": 974646959
+    },
+    {
+        "nome": "Maria Gomes",
+        "endereco": "Rua da Liberdade, n\u00ba 12",
+        "renda_usd": 156,
+        "renda_aoa": 140400,
+        "cidade": "Lunda Norte",
+        "provincia": "Kwanza Sul",
+        "nif": 589661540
+    },
+    {
+        "nome": "Rita Santos",
+        "endereco": "Avenida Marginal, n\u00ba 45",
+        "renda_usd": 198,
+        "renda_aoa": 178200,
+        "cidade": "Benguela",
+        "provincia": "Kwanza Sul",
+        "nif": 165281463
+    },
+    {
+        "nome": "Maria Gomes",
+        "endereco": "Avenida 1\u00ba de Maio, n\u00ba 15",
+        "renda_usd": 160,
+        "renda_aoa": 144000,
+        "cidade": "Luanda",
+        "provincia": "Moxico",
+        "nif": 876134276
+    },
+    {
+        "nome": "Jos\u00e9 da Silva",
+        "endereco": "Avenida Marginal, n\u00ba 45",
+        "renda_usd": 158,
+        "renda_aoa": 142200,
+        "cidade": "Malanje",
+        "provincia": "Huambo",
+        "nif": 783206047
+    },
+    {
+        "nome": "Maria Gomes",
+        "endereco": "Rua da Liberdade, n\u00ba 12",
+        "renda_usd": 162,
+        "renda_aoa": 145800,
+        "cidade": "Lunda Norte",
+        "provincia": "U\u00edge",
+        "nif": 184347505
+    },
+    {
+        "nome": "Ana Oliveira",
+        "endereco": "Avenida Central, n\u00ba 101",
+        "renda_usd": 150,
+        "renda_aoa": 135000,
+        "cidade": "Lunda Norte",
+        "provincia": "Huila",
+        "nif": 191651695
+    },
+    {
+        "nome": "Marta Rodrigues",
+        "endereco": "Rua S\u00e3o Jo\u00e3o, n\u00ba 40",
+        "renda_usd": 171,
+        "renda_aoa": 153900,
+        "cidade": "Benguela",
+        "provincia": "Benguela",
+        "nif": 298634932
+    },
+    {
+        "nome": "Lucia Pinto",
+        "endereco": "Rua do Cora\u00e7\u00e3o, n\u00ba 55",
+        "renda_usd": 139,
+        "renda_aoa": 125100,
+        "cidade": "Lunda Norte",
+        "provincia": "Moxico",
+        "nif": 218863344
+    },
+    {
+        "nome": "Jo\u00e3o Pereira",
+        "endereco": "Rua do Com\u00e9rcio, n\u00ba 88",
+        "renda_usd": 173,
+        "renda_aoa": 155700,
+        "cidade": "U\u00edge",
+        "provincia": "Luanda",
+        "nif": 485502411
+    },
+    {
+        "nome": "Jo\u00e3o Pereira",
+        "endereco": "Avenida Marginal, n\u00ba 45",
+        "renda_usd": 199,
+        "renda_aoa": 179100,
+        "cidade": "Lubango",
+        "provincia": "U\u00edge",
+        "nif": 153687311
+    },
+    {
+        "nome": "Jo\u00e3o Pereira",
+        "endereco": "Rua do Com\u00e9rcio, n\u00ba 88",
+        "renda_usd": 158,
+        "renda_aoa": 142200,
+        "cidade": "Malanje",
+        "provincia": "Cabinda",
+        "nif": 628507679
+    },
+    {
+        "nome": "Jos\u00e9 da Silva",
+        "endereco": "Avenida Uni\u00e3o, n\u00ba 73",
+        "renda_usd": 127,
+        "renda_aoa": 114300,
+        "cidade": "Kuito",
+        "provincia": "Huambo",
+        "nif": 632095849
+    },
+    {
+        "nome": "Jo\u00e3o Pereira",
+        "endereco": "Rua do Com\u00e9rcio, n\u00ba 88",
+        "renda_usd": 194,
+        "renda_aoa": 174600,
+        "cidade": "U\u00edge",
+        "provincia": "Luanda",
+        "nif": 735353713
+    },
+    {
+        "nome": "Lu\u00eds Costa",
+        "endereco": "Rua S\u00e3o Jo\u00e3o, n\u00ba 40",
+        "renda_usd": 151,
+        "renda_aoa": 135900,
+        "cidade": "Lunda Norte",
+        "provincia": "Moxico",
+        "nif": 964633550
+    },
+    {
+        "nome": "Jo\u00e3o Pereira",
+        "endereco": "Avenida Central, n\u00ba 101",
+        "renda_usd": 156,
+        "renda_aoa": 140400,
+        "cidade": "Zaire",
+        "provincia": "Huila",
+        "nif": 234185567
+    },
+    {
+        "nome": "Lucia Pinto",
+        "endereco": "Avenida Central, n\u00ba 101",
+        "renda_usd": 191,
+        "renda_aoa": 171900,
+        "cidade": "Lubango",
+        "provincia": "Cabinda",
+        "nif": 722195638
+    },
+    {
+        "nome": "Rita Santos",
+        "endereco": "Rua da Liberdade, n\u00ba 12",
+        "renda_usd": 120,
+        "renda_aoa": 108000,
+        "cidade": "Zaire",
+        "provincia": "Malanje",
+        "nif": 838891200
+    },
+    {
+        "nome": "Jo\u00e3o Pereira",
+        "endereco": "Avenida Central, n\u00ba 101",
+        "renda_usd": 200,
+        "renda_aoa": 180000,
+        "cidade": "Luanda",
+        "provincia": "Benguela",
+        "nif": 444242888
+    },
+    {
+        "nome": "Pedro Almeida",
+        "endereco": "Avenida Uni\u00e3o, n\u00ba 73",
+        "renda_usd": 200,
+        "renda_aoa": 180000,
+        "cidade": "Malanje",
+        "provincia": "Benguela",
+        "nif": 822709386
+    },
+    {
+        "nome": "Ana Oliveira",
+        "endereco": "Rua dos Sabeiros, n\u00ba 28",
+        "renda_usd": 165,
+        "renda_aoa": 148500,
+        "cidade": "Zaire",
+        "provincia": "Benguela",
+        "nif": 709497189
+    },
+    {
+        "nome": "Lu\u00eds Costa",
+        "endereco": "Avenida Marginal, n\u00ba 45",
+        "renda_usd": 162,
+        "renda_aoa": 145800,
+        "cidade": "Benguela",
+        "provincia": "Zaire",
+        "nif": 663292838
+    },
+    {
+        "nome": "Rita Santos",
+        "endereco": "Rua da Liberdade, n\u00ba 12",
+        "renda_usd": 132,
+        "renda_aoa": 118800,
+        "cidade": "Zaire",
+        "provincia": "Zaire",
+        "nif": 701234249
+    },
+    {
+        "nome": "Ana Oliveira",
+        "endereco": "Avenida 1\u00ba de Maio, n\u00ba 15",
+        "renda_usd": 193,
+        "renda_aoa": 173700,
+        "cidade": "Malanje",
+        "provincia": "Luanda",
+        "nif": 359974552
+    },
+    {
+        "nome": "Lucia Pinto",
+        "endereco": "Rua do Com\u00e9rcio, n\u00ba 88",
+        "renda_usd": 166,
+        "renda_aoa": 149400,
+        "cidade": "Lunda Norte",
+        "provincia": "Huila",
+        "nif": 606184380
+    },
+    {
+        "nome": "Ana Oliveira",
+        "endereco": "Rua dos Sabeiros, n\u00ba 28",
+        "renda_usd": 155,
+        "renda_aoa": 139500,
+        "cidade": "Malanje",
+        "provincia": "U\u00edge",
+        "nif": 348687311
+    },
+    {
+        "nome": "Marta Rodrigues",
+        "endereco": "Avenida 1\u00ba de Maio, n\u00ba 15",
+        "renda_usd": 155,
+        "renda_aoa": 139500,
+        "cidade": "Huambo",
+        "provincia": "Cabinda",
+        "nif": 811048326
+    },
+    {
+        "nome": "Marta Rodrigues",
+        "endereco": "Avenida Central, n\u00ba 101",
+        "renda_usd": 101,
+        "renda_aoa": 90900,
+        "cidade": "Benguela",
+        "provincia": "Benguela",
+        "nif": 198631707
+    },
+    {
+        "nome": "Ana Oliveira",
+        "endereco": "Avenida Central, n\u00ba 101",
+        "renda_usd": 134,
+        "renda_aoa": 120600,
+        "cidade": "Huambo",
+        "provincia": "Huila",
+        "nif": 199380629
+    },
+    {
+        "nome": "Pedro Almeida",
+        "endereco": "Rua do Cora\u00e7\u00e3o, n\u00ba 55",
+        "renda_usd": 123,
+        "renda_aoa": 110700,
+        "cidade": "Lubango",
+        "provincia": "Kwanza Sul",
+        "nif": 333410379
+    },
+    {
+        "nome": "Maria Gomes",
+        "endereco": "Rua da Liberdade, n\u00ba 12",
+        "renda_usd": 136,
+        "renda_aoa": 122400,
+        "cidade": "Huambo",
+        "provincia": "Huila",
+        "nif": 209014180
+    },
+    {
+        "nome": "Jo\u00e3o Pereira",
+        "endereco": "Avenida Marginal, n\u00ba 45",
+        "renda_usd": 178,
+        "renda_aoa": 160200,
+        "cidade": "Kuito",
+        "provincia": "Zaire",
+        "nif": 660390724
+    },
+    {
+        "nome": "Lucia Pinto",
+        "endereco": "Avenida Marginal, n\u00ba 45",
+        "renda_usd": 196,
+        "renda_aoa": 176400,
+        "cidade": "Malanje",
+        "provincia": "U\u00edge",
+        "nif": 367134719
+    },
+    {
+        "nome": "Ana Oliveira",
+        "endereco": "Rua do Com\u00e9rcio, n\u00ba 88",
+        "renda_usd": 109,
+        "renda_aoa": 98100,
+        "cidade": "Malanje",
+        "provincia": "Kwanza Sul",
+        "nif": 172740013
+    },
+    {
+        "nome": "Marta Rodrigues",
+        "endereco": "Avenida Central, n\u00ba 101",
+        "renda_usd": 153,
+        "renda_aoa": 137700,
+        "cidade": "Kuito",
+        "provincia": "Malanje",
+        "nif": 905142650
+    },
+    {
+        "nome": "Ana Oliveira",
+        "endereco": "Avenida Marginal, n\u00ba 45",
+        "renda_usd": 121,
+        "renda_aoa": 108900,
+        "cidade": "Kuito",
+        "provincia": "Benguela",
+        "nif": 179673213
+    },
+    {
+        "nome": "Jo\u00e3o Pereira",
+        "endereco": "Rua dos Sabeiros, n\u00ba 28",
+        "renda_usd": 154,
+        "renda_aoa": 138600,
+        "cidade": "Luanda",
+        "provincia": "U\u00edge",
+        "nif": 899283689
+    },
+    {
+        "nome": "Jo\u00e3o Pereira",
+        "endereco": "Avenida Central, n\u00ba 101",
+        "renda_usd": 173,
+        "renda_aoa": 155700,
+        "cidade": "Cabinda",
+        "provincia": "Luanda",
+        "nif": 130100795
+    },
+    {
+        "nome": "Marta Rodrigues",
+        "endereco": "Avenida da Paz, n\u00ba 36",
+        "renda_usd": 163,
+        "renda_aoa": 146700,
+        "cidade": "Kuito",
+        "provincia": "Kwanza Sul",
+        "nif": 493491066
+    },
+    {
+        "nome": "Maria Gomes",
+        "endereco": "Rua S\u00e3o Jo\u00e3o, n\u00ba 40",
+        "renda_usd": 105,
+        "renda_aoa": 94500,
+        "cidade": "Huambo",
+        "provincia": "Cabinda",
+        "nif": 802549518
+    },
+    {
+        "nome": "Marta Rodrigues",
+        "endereco": "Avenida 1\u00ba de Maio, n\u00ba 15",
+        "renda_usd": 181,
+        "renda_aoa": 162900,
+        "cidade": "Luanda",
+        "provincia": "U\u00edge",
+        "nif": 956029638
+    },
+    {
+        "nome": "Jos\u00e9 da Silva",
+        "endereco": "Rua S\u00e3o Jo\u00e3o, n\u00ba 40",
+        "renda_usd": 146,
+        "renda_aoa": 131400,
+        "cidade": "Kuito",
+        "provincia": "Cabinda",
+        "nif": 970805132
+    },
+    {
+        "nome": "Marta Rodrigues",
+        "endereco": "Avenida Marginal, n\u00ba 45",
+        "renda_usd": 169,
+        "renda_aoa": 152100,
+        "cidade": "Malanje",
+        "provincia": "Huambo",
+        "nif": 307948760
+    },
+    {
+        "nome": "Jos\u00e9 da Silva",
+        "endereco": "Rua S\u00e3o Jo\u00e3o, n\u00ba 40",
+        "renda_usd": 184,
+        "renda_aoa": 165600,
+        "cidade": "Kuito",
+        "provincia": "Benguela",
+        "nif": 749222709
+    },
+    {
+        "nome": "Pedro Almeida",
+        "endereco": "Avenida 1\u00ba de Maio, n\u00ba 15",
+        "renda_usd": 198,
+        "renda_aoa": 178200,
+        "cidade": "Benguela",
+        "provincia": "Moxico",
+        "nif": 353038888
+    },
+    {
+        "nome": "Ana Oliveira",
+        "endereco": "Rua do Cora\u00e7\u00e3o, n\u00ba 55",
+        "renda_usd": 122,
+        "renda_aoa": 109800,
+        "cidade": "U\u00edge",
+        "provincia": "Huila",
+        "nif": 588929068
+    },
+    {
+        "nome": "Rita Santos",
+        "endereco": "Avenida 1\u00ba de Maio, n\u00ba 15",
+        "renda_usd": 183,
+        "renda_aoa": 164700,
+        "cidade": "Kuito",
+        "provincia": "Huila",
+        "nif": 437413434
+    },
+    {
+        "nome": "Jos\u00e9 da Silva",
+        "endereco": "Rua S\u00e3o Jo\u00e3o, n\u00ba 40",
+        "renda_usd": 167,
+        "renda_aoa": 150300,
+        "cidade": "U\u00edge",
+        "provincia": "Benguela",
+        "nif": 377343714
+    },
+    {
+        "nome": "Lucia Pinto",
+        "endereco": "Avenida Marginal, n\u00ba 45",
+        "renda_usd": 198,
+        "renda_aoa": 178200,
+        "cidade": "Benguela",
+        "provincia": "Huambo",
+        "nif": 546830086
+    },
+    {
+        "nome": "Marta Rodrigues",
+        "endereco": "Avenida 1\u00ba de Maio, n\u00ba 15",
+        "renda_usd": 123,
+        "renda_aoa": 110700,
+        "cidade": "Huambo",
+        "provincia": "Huila",
+        "nif": 542860499
+    },
+    {
+        "nome": "Lu\u00eds Costa",
+        "endereco": "Rua do Cora\u00e7\u00e3o, n\u00ba 55",
+        "renda_usd": 141,
+        "renda_aoa": 126900,
+        "cidade": "Lunda Norte",
+        "provincia": "Huila",
+        "nif": 563297389
+    },
+    {
+        "nome": "Lucia Pinto",
+        "endereco": "Rua dos Sabeiros, n\u00ba 28",
+        "renda_usd": 173,
+        "renda_aoa": 155700,
+        "cidade": "U\u00edge",
+        "provincia": "Zaire",
+        "nif": 862658483
+    },
+    {
+        "nome": "Marta Rodrigues",
+        "endereco": "Rua do Cora\u00e7\u00e3o, n\u00ba 55",
+        "renda_usd": 140,
+        "renda_aoa": 126000,
+        "cidade": "Kuito",
+        "provincia": "Huila",
+        "nif": 175967952
+    },
+    {
+        "nome": "Pedro Almeida",
+        "endereco": "Rua dos Sabeiros, n\u00ba 28",
+        "renda_usd": 125,
+        "renda_aoa": 112500,
+        "cidade": "Huambo",
+        "provincia": "Huambo",
+        "nif": 633397662
+    },
+    {
+        "nome": "Carlos Souza",
+        "endereco": "Avenida da Paz, n\u00ba 36",
+        "renda_usd": 109,
+        "renda_aoa": 98100,
+        "cidade": "Huambo",
+        "provincia": "Luanda",
+        "nif": 216232281
+    },
+    {
+        "nome": "Rita Santos",
+        "endereco": "Rua dos Sabeiros, n\u00ba 28",
+        "renda_usd": 180,
+        "renda_aoa": 162000,
+        "cidade": "Huambo",
+        "provincia": "U\u00edge",
+        "nif": 992058521
+    },
+    {
+        "nome": "Rita Santos",
+        "endereco": "Rua da Liberdade, n\u00ba 12",
+        "renda_usd": 159,
+        "renda_aoa": 143100,
+        "cidade": "Luanda",
+        "provincia": "Moxico",
+        "nif": 760962051
+    },
+    {
+        "nome": "Maria Gomes",
+        "endereco": "Avenida Central, n\u00ba 101",
+        "renda_usd": 200,
+        "renda_aoa": 180000,
+        "cidade": "Luanda",
+        "provincia": "Huila",
+        "nif": 316927916
+    },
+    {
+        "nome": "Ana Oliveira",
+        "endereco": "Avenida Uni\u00e3o, n\u00ba 73",
+        "renda_usd": 166,
+        "renda_aoa": 149400,
+        "cidade": "Benguela",
+        "provincia": "Huambo",
+        "nif": 358249176
+    },
+    {
+        "nome": "Lucia Pinto",
+        "endereco": "Rua dos Sabeiros, n\u00ba 28",
+        "renda_usd": 190,
+        "renda_aoa": 171000,
+        "cidade": "Malanje",
+        "provincia": "Huambo",
+        "nif": 512918688
+    },
+    {
+        "nome": "Lu\u00eds Costa",
+        "endereco": "Avenida da Paz, n\u00ba 36",
+        "renda_usd": 198,
+        "renda_aoa": 178200,
+        "cidade": "Kuito",
+        "provincia": "Benguela",
+        "nif": 556114340
+    },
+    {
+        "nome": "Marta Rodrigues",
+        "endereco": "Avenida Central, n\u00ba 101",
+        "renda_usd": 188,
+        "renda_aoa": 169200,
+        "cidade": "Huambo",
+        "provincia": "Malanje",
+        "nif": 660580172
+    },
+    {
+        "nome": "Jos\u00e9 da Silva",
+        "endereco": "Avenida Marginal, n\u00ba 45",
+        "renda_usd": 200,
+        "renda_aoa": 180000,
+        "cidade": "Malanje",
+        "provincia": "Moxico",
+        "nif": 836430776
+    },
+    {
+        "nome": "Ana Oliveira",
+        "endereco": "Rua da Liberdade, n\u00ba 12",
+        "renda_usd": 183,
+        "renda_aoa": 164700,
+        "cidade": "Luanda",
+        "provincia": "Moxico",
+        "nif": 825392118
+    },
+    {
+        "nome": "Maria Gomes",
+        "endereco": "Avenida Marginal, n\u00ba 45",
+        "renda_usd": 114,
+        "renda_aoa": 102600,
+        "cidade": "Lubango",
+        "provincia": "U\u00edge",
+        "nif": 446725848
+    },
+    {
+        "nome": "Jos\u00e9 da Silva",
+        "endereco": "Rua da Liberdade, n\u00ba 12",
+        "renda_usd": 174,
+        "renda_aoa": 156600,
+        "cidade": "U\u00edge",
+        "provincia": "Malanje",
+        "nif": 749488962
+    },
+    {
+        "nome": "Lu\u00eds Costa",
+        "endereco": "Rua da Liberdade, n\u00ba 12",
+        "renda_usd": 112,
+        "renda_aoa": 100800,
+        "cidade": "Kuito",
+        "provincia": "Huila",
+        "nif": 494175420
+    },
+    {
+        "nome": "Marta Rodrigues",
+        "endereco": "Avenida da Paz, n\u00ba 36",
+        "renda_usd": 123,
+        "renda_aoa": 110700,
+        "cidade": "Lubango",
+        "provincia": "Cabinda",
+        "nif": 937307554
+    },
+    {
+        "nome": "Carlos Souza",
+        "endereco": "Avenida Uni\u00e3o, n\u00ba 73",
+        "renda_usd": 200,
+        "renda_aoa": 180000,
+        "cidade": "Kuito",
+        "provincia": "Moxico",
+        "nif": 938810188
+    },
+    {
+        "nome": "Jo\u00e3o Pereira",
+        "endereco": "Rua do Cora\u00e7\u00e3o, n\u00ba 55",
+        "renda_usd": 152,
+        "renda_aoa": 136800,
+        "cidade": "Huambo",
+        "provincia": "Huila",
+        "nif": 448369030
+    },
+    {
+        "nome": "Marta Rodrigues",
+        "endereco": "Avenida Central, n\u00ba 101",
+        "renda_usd": 181,
+        "renda_aoa": 162900,
+        "cidade": "Lunda Norte",
+        "provincia": "Luanda",
+        "nif": 680096293
+    },
+    {
+        "nome": "Ana Oliveira",
+        "endereco": "Rua da Liberdade, n\u00ba 12",
+        "renda_usd": 163,
+        "renda_aoa": 146700,
+        "cidade": "U\u00edge",
+        "provincia": "Moxico",
+        "nif": 902864898
+    },
+    {
+        "nome": "Pedro Almeida",
+        "endereco": "Avenida Central, n\u00ba 101",
+        "renda_usd": 153,
+        "renda_aoa": 137700,
+        "cidade": "Kuito",
+        "provincia": "Moxico",
+        "nif": 148261880
+    },
+    {
+        "nome": "Marta Rodrigues",
+        "endereco": "Avenida da Paz, n\u00ba 36",
+        "renda_usd": 156,
+        "renda_aoa": 140400,
+        "cidade": "Huambo",
+        "provincia": "Zaire",
+        "nif": 420853328
+    },
+    {
+        "nome": "Jos\u00e9 da Silva",
+        "endereco": "Rua dos Sabeiros, n\u00ba 28",
+        "renda_usd": 143,
+        "renda_aoa": 128700,
+        "cidade": "Malanje",
+        "provincia": "Malanje",
+        "nif": 565441881
+    },
+    {
+        "nome": "Ana Oliveira",
+        "endereco": "Avenida Marginal, n\u00ba 45",
+        "renda_usd": 115,
+        "renda_aoa": 103500,
+        "cidade": "Huambo",
+        "provincia": "Luanda",
+        "nif": 213790882
+    },
+    {
+        "nome": "Lucia Pinto",
+        "endereco": "Rua S\u00e3o Jo\u00e3o, n\u00ba 40",
+        "renda_usd": 162,
+        "renda_aoa": 145800,
+        "cidade": "Lubango",
+        "provincia": "Huambo",
+        "nif": 478859786
+    },
+    {
+        "nome": "Lucia Pinto",
+        "endereco": "Avenida 1\u00ba de Maio, n\u00ba 15",
+        "renda_usd": 163,
+        "renda_aoa": 146700,
+        "cidade": "Malanje",
+        "provincia": "Huambo",
+        "nif": 403986730
+    },
+    {
+        "nome": "Rita Santos",
+        "endereco": "Avenida Central, n\u00ba 101",
+        "renda_usd": 133,
+        "renda_aoa": 119700,
+        "cidade": "Zaire",
+        "provincia": "Kwanza Sul",
+        "nif": 336294317
+    },
+    {
+        "nome": "Ana Oliveira",
+        "endereco": "Avenida Marginal, n\u00ba 45",
+        "renda_usd": 186,
+        "renda_aoa": 167400,
+        "cidade": "Huambo",
+        "provincia": "Moxico",
+        "nif": 318893220
+    },
+    {
+        "nome": "Marta Rodrigues",
+        "endereco": "Rua da Liberdade, n\u00ba 12",
+        "renda_usd": 119,
+        "renda_aoa": 107100,
+        "cidade": "Benguela",
+        "provincia": "Huambo",
+        "nif": 513599389
+    },
+    {
+        "nome": "Marta Rodrigues",
+        "endereco": "Rua da Liberdade, n\u00ba 12",
+        "renda_usd": 155,
+        "renda_aoa": 139500,
+        "cidade": "Kuito",
+        "provincia": "Cabinda",
+        "nif": 436210456
+    },
+    {
+        "nome": "Lu\u00eds Costa",
+        "endereco": "Avenida da Paz, n\u00ba 36",
+        "renda_usd": 176,
+        "renda_aoa": 158400,
+        "cidade": "Kuito",
+        "provincia": "U\u00edge",
+        "nif": 226886513
+    },
+    {
+        "nome": "Lu\u00eds Costa",
+        "endereco": "Rua da Liberdade, n\u00ba 12",
+        "renda_usd": 174,
+        "renda_aoa": 156600,
+        "cidade": "Benguela",
+        "provincia": "Zaire",
+        "nif": 844649929
+    },
+    {
+        "nome": "Pedro Almeida",
+        "endereco": "Avenida Marginal, n\u00ba 45",
+        "renda_usd": 109,
+        "renda_aoa": 98100,
+        "cidade": "Lunda Norte",
+        "provincia": "Luanda",
+        "nif": 607356206
+    },
+    {
+        "nome": "Marta Rodrigues",
+        "endereco": "Avenida Central, n\u00ba 101",
+        "renda_usd": 183,
+        "renda_aoa": 164700,
+        "cidade": "Lubango",
+        "provincia": "Moxico",
+        "nif": 922785416
+    },
+    {
+        "nome": "Jo\u00e3o Pereira",
+        "endereco": "Rua da Liberdade, n\u00ba 12",
+        "renda_usd": 199,
+        "renda_aoa": 179100,
+        "cidade": "U\u00edge",
+        "provincia": "Kwanza Sul",
+        "nif": 322459640
+    },
+    {
+        "nome": "Maria Gomes",
+        "endereco": "Avenida da Paz, n\u00ba 36",
+        "renda_usd": 108,
+        "renda_aoa": 97200,
+        "cidade": "Zaire",
+        "provincia": "Zaire",
+        "nif": 827251383
+    },
+    {
+        "nome": "Pedro Almeida",
+        "endereco": "Rua da Liberdade, n\u00ba 12",
+        "renda_usd": 157,
+        "renda_aoa": 141300,
+        "cidade": "Kuito",
+        "provincia": "U\u00edge",
+        "nif": 440111765
+    },
+    {
+        "nome": "Carlos Souza",
+        "endereco": "Rua do Cora\u00e7\u00e3o, n\u00ba 55",
+        "renda_usd": 149,
+        "renda_aoa": 134100,
+        "cidade": "U\u00edge",
+        "provincia": "U\u00edge",
+        "nif": 928356227
+    },
+    {
+        "nome": "Lucia Pinto",
+        "endereco": "Rua do Cora\u00e7\u00e3o, n\u00ba 55",
+        "renda_usd": 194,
+        "renda_aoa": 174600,
+        "cidade": "Lubango",
+        "provincia": "Huila",
+        "nif": 132889165
+    },
+    {
+        "nome": "Ana Oliveira",
+        "endereco": "Avenida Central, n\u00ba 101",
+        "renda_usd": 121,
+        "renda_aoa": 108900,
+        "cidade": "Lunda Norte",
+        "provincia": "Cabinda",
+        "nif": 368726347
+    },
+    {
+        "nome": "Lu\u00eds Costa",
+        "endereco": "Avenida 1\u00ba de Maio, n\u00ba 15",
+        "renda_usd": 190,
+        "renda_aoa": 171000,
+        "cidade": "Lubango",
+        "provincia": "Cabinda",
+        "nif": 965469864
+    },
+    {
+        "nome": "Pedro Almeida",
+        "endereco": "Rua S\u00e3o Jo\u00e3o, n\u00ba 40",
+        "renda_usd": 122,
+        "renda_aoa": 109800,
+        "cidade": "Cabinda",
+        "provincia": "Huila",
+        "nif": 108537452
+    },
+    {
+        "nome": "Jos\u00e9 da Silva",
+        "endereco": "Avenida Uni\u00e3o, n\u00ba 73",
+        "renda_usd": 167,
+        "renda_aoa": 150300,
+        "cidade": "Benguela",
+        "provincia": "Luanda",
+        "nif": 123221691
+    },
+    {
+        "nome": "Jo\u00e3o Pereira",
+        "endereco": "Avenida Central, n\u00ba 101",
+        "renda_usd": 133,
+        "renda_aoa": 119700,
+        "cidade": "Zaire",
+        "provincia": "Moxico",
+        "nif": 938280713
+    },
+    {
+        "nome": "Pedro Almeida",
+        "endereco": "Rua dos Sabeiros, n\u00ba 28",
+        "renda_usd": 107,
+        "renda_aoa": 96300,
+        "cidade": "Malanje",
+        "provincia": "Malanje",
+        "nif": 238119858
+    },
+    {
+        "nome": "Carlos Souza",
+        "endereco": "Avenida Marginal, n\u00ba 45",
+        "renda_usd": 109,
+        "renda_aoa": 98100,
+        "cidade": "Lunda Norte",
+        "provincia": "Zaire",
+        "nif": 972535986
+    }
+]
